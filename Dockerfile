@@ -1,2 +1,2 @@
-FROM registry.opensource.zalan.do/teapot/external-dns:v0.5.4
+FROM registry.opensource.zalan.do/teapot/external-dns:v0.5.9
 MAINTAINER xxqin <xxqin@iflytek.com>
